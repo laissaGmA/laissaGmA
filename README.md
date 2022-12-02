@@ -1,4 +1,4 @@
-### Oiee! Eu me chamo Laissa.👋
+### Oiee! Eu me chamo Laissa.
 
 <div align="center">
   <a href="https://github.com/laissaGmA">
