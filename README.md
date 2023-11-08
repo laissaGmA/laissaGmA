@@ -7,7 +7,7 @@
 </div>
 
 - 🔭 Sou uma Universitária Cursando Bacharelado em Ciência da Computação;
-- 🌱 Estudando Front-end;
+- 🌱 Estudando Ciência de Dados;
 - 📫 Email Profissional: laissagtrabalhos@gmail.com
 - 😄 Pronomes: ela/dela
 
